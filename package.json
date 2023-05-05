@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thihathit/react-use-models.git"
+},
   "author": "khunyeaung",
   "license": "ISC",
+  "homepage": "https://github.com/thihathit/react-use-models#readme",
   "peerDependencies": {
     "react": "^18.2.0"
   },
