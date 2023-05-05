@@ -6,7 +6,7 @@ Alert by clicking button
 
 ### Credit
 
-0.1.0 Implementation inspired from [use-models](https://www.npmjs.com/package/use-models).
+0.1.0 Implementation inspired from [react-use-models](https://www.npmjs.com/package/react-use-models?activeTab=code).
 
 
 
