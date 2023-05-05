@@ -27,23 +27,16 @@ npm i react-usealert
 ## Usage
 
 ```jsx
-export default function App() {
-  const { alerts, updateAlert, register } = useAlert({});
+import { useAlert } from "react-usealert";
 
-  useEffect(() => {
-    setTimeout(() => updateAlert("name", ""), 3000);
-  }, []);
+export default function App() {
+  const { alerts } = useAlert({});
+
   return (
     <div>
-      <label>Text Area</label>
-      <br />
-      <textarea {...register.input({ name: "name" })} />
-
-      <br />
-
       <button
         onClick={() => {
-          alert((alerts, alerts.name));
+          alert((alerts));
         }}
       >
         Alert
@@ -51,5 +44,6 @@ export default function App() {
     </div>
   );
 }
+
 
 ```
