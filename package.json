@@ -1,6 +1,6 @@
 {
   "name": "react-usealert",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "alert text by clicking button",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "react-hooks",
     "hooks",
     "alets"
-],
+  ],
   "author": "khunyeaung",
   "license": "ISC",
   "homepage": "https://github.com/khun1997/react-useAlert",
