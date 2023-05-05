@@ -6,6 +6,7 @@ import set from "lodash.set";
 const v = (o, k) => o[k] !== undefined;
 
 export const useAlert = ({ defaultState = {} }) => {
+    // eslint-disable-next-line
   const [alerts, setAlerts] = useState(() => Object.assign({}, defaultState));
 
   const getAlert = (name) => get(alerts, name);
