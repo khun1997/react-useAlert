@@ -4,9 +4,6 @@ Alert by clicking button
 
 
 ## Installation
-
-install package via [npm](https://www.npmjs.com/package/react-use-models).
-
 ```
 yarn i react-usealert
 
