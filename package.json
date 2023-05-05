@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/khun1997/react-useAlert"
   },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "alets"
+],
   "author": "khunyeaung",
   "license": "ISC",
   "homepage": "https://github.com/khun1997/react-useAlert",
