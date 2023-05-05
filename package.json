@@ -1,0 +1,18 @@
+{
+  "name": "react-usealert",
+  "version": "1.0.0",
+  "description": "alert text by clicking button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khunyeaung",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2"
+  }
+}
