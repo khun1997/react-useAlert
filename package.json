@@ -1,6 +1,6 @@
 {
   "name": "react-usealert",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "alert text by clicking button",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thihathit/react-use-models.git"
-},
+  },
   "author": "khunyeaung",
   "license": "ISC",
   "homepage": "https://github.com/thihathit/react-use-models#readme",
