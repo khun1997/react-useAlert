@@ -1,6 +1,6 @@
 {
   "name": "react-usealert",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "alert text by clicking button",
   "main": "index.js",
   "scripts": {
