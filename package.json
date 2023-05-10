@@ -1,6 +1,6 @@
 {
   "name": "react-usealert",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "type": "module",
   "description": "alert text by clicking button",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "files": [
     "index.js",
     "index.d.ts"
-],
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
