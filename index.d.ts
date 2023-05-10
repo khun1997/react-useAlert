@@ -5,7 +5,7 @@ export type TypeUseAlertConfig<FieldValues> = {
 };
 
 export interface TypeUseAlert<FieldValues> {
-  models: FieldValues;
+  alert: FieldValues;
 
   updateAlert: <T extends keyof FieldValues>(
     name: T,
