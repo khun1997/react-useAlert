@@ -1,8 +1,6 @@
 import { Dispatch, SetStateAction } from "react";
 
-type FieldValues = any;
-
-export type TypeUseAlertConfig<FieldValues> = {  
+export type TypeUseAlertConfig<FieldValues> = {
   defaultState?: FieldValues;
 };
 
@@ -17,8 +15,6 @@ export interface TypeUseAlert<FieldValues> {
   setAlerts: Dispatch<SetStateAction<FieldValues>>;
 }
 
-export const useAlert: <T>(
-  options?: TypeUseAlertConfig<T>
-) => TypeUseAlert<T>;
+export const useAlert: <T>(options?: TypeUseAlertConfig<T>) => TypeUseAlert<T>;
 
 export default useAlert;
