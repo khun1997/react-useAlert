@@ -1,6 +1,6 @@
 ## About
-
-Alert by clicking button
+Npm package
+(Alert by clicking button)
 
 
 ## Installation
